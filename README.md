@@ -1,6 +1,6 @@
 AI-Powered Financial Fraud Detection System
 Summer Training Project 2026
-Author: Rudra Pratap Singh
+Author: Rakesh Kr.
 """
 
 import pandas as pd
